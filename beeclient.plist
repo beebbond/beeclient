@@ -19,7 +19,7 @@
 				<key>bundle-identifier</key>
 				<string>com.beebbond.beeclient</string>
 				<key>bundle-version</key>
-				<string>1.01</string>
+				<string>1.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
